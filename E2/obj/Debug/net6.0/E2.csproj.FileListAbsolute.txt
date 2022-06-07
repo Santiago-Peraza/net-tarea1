@@ -1,0 +1,15 @@
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/E2.csproj.AssemblyReference.cache
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/E2.GeneratedMSBuildEditorConfig.editorconfig
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/E2.AssemblyInfoInputs.cache
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/E2.AssemblyInfo.cs
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/E2.csproj.CoreCompileInputs.cache
+/home/santiago/MEGAsync/NET/tarea_1/E2/bin/Debug/net6.0/E2
+/home/santiago/MEGAsync/NET/tarea_1/E2/bin/Debug/net6.0/E2.deps.json
+/home/santiago/MEGAsync/NET/tarea_1/E2/bin/Debug/net6.0/E2.runtimeconfig.json
+/home/santiago/MEGAsync/NET/tarea_1/E2/bin/Debug/net6.0/E2.dll
+/home/santiago/MEGAsync/NET/tarea_1/E2/bin/Debug/net6.0/E2.pdb
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/E2.dll
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/refint/E2.dll
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/E2.pdb
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/E2.genruntimeconfig.cache
+/home/santiago/MEGAsync/NET/tarea_1/E2/obj/Debug/net6.0/ref/E2.dll
